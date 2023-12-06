@@ -132,3 +132,6 @@ dist
 # IntelliJ
 .idea/
 
+# Build folder
+build/
+
