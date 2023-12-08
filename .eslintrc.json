@@ -1,3 +1,6 @@
 {
-  "extends": ["@caiotracera/eslint-config/node"]
+  "extends": ["@caiotracera/eslint-config/node"],
+  "rules": {
+    "camelcase": "off"
+  }
 }
